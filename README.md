@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there, I'm a BTech Student 👋
 
-<!--
-**yathish888/yathish888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Full-Stack Developer | MERN Stack
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BTech student interested in software development and building practical web applications. I enjoy learning new technologies and turning ideas into working projects.
+
+## 🚀 About Me
+
+- 🎓 BTech Student
+- 💻 Interested in Full-Stack Web Development
+- 🌱 Continuously learning and improving my skills
+- 🛠️ Building projects with modern web technologies
+- 🎯 Seeking Software Development Internship Opportunities
+
+## 🧰 Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, React.js
+
+**Backend:** Node.js, Express.js
+
+**Database:** MongoDB, MySQL
+
+**Tools:** Git, GitHub, VS Code, Postman
+
+## 📌 Featured Projects
+
+### 🏥 Hospital Service Comparison System
+A web application designed to compare hospital services, facilities, and prices.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB
+
+### 🍔 Food Menu Manager
+A web application to manage food items, prices, and categories.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB
+
+### 📒 Phonebook Management System
+A contact management application with create, read, update, and delete functionality.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB
+
+## 🌱 Currently Learning
+
+- Full-Stack Web Development
+- REST API Development
+- Database Management
+- Data Structures and Algorithms
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on projects, learning from other developers, and exploring internship opportunities.
+
+Thanks for visiting my profile! ⭐
